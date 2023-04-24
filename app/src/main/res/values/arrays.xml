@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="workouts">
+        <item>Jogging, general</item>
+        <item>Jogging, in place</item>
+        <item>Jog/walk combination</item>
+        <item>Running</item>
+        <item>Running, stairs, up</item>
+        <item>Running, cross country</item>
+        <item>Walking</item>
+        <item>Walking, climbing hills</item>
+        <item>Hiking, cross country</item>
+        <item>Bicycling, general</item>
+        <item>Bicycling, stationary, general</item>
+        <item>Bicylcling, mountain, general</item>
+        <item>Eliptical trainer</item>
+        <item>Pilates, general</item>
+        <item>Yoga, Hatha</item>
+        <item>Yoga, Power</item>
+        <item>Yoga, Nadiosodhama</item>
+        <item>Basketball, general</item>
+        <item>Basketball, game</item>
+        <item>Bowling, indoor</item>
+        <item>Football, general</item>
+        <item>Golf, general</item>
+        <item>Gymnastics, general</item>
+        <item>Lacrosse</item>
+        <item>Rock or Mountain Climbing</item>
+        <item>Skateboarding, general</item>
+        <item>Soccer, casual, general</item>
+        <item>Soccer, competitive</item>
+        <item>Softball, general</item>
+        <item>Tennis, general</item>
+        <item>Volleyball, general</item>
+        <item>Volleyball, indoor gym</item>
+        <item>Volleyball, beach, sand</item>
+    </string-array>
+
+    <string-array name="METValues">
+        <item>7.0</item>
+        <item>8.0</item>
+        <item>6.0</item>
+        <item>8.0</item>
+        <item>15.0</item>
+        <item>9.0</item>
+        <item>3.5</item>
+        <item>6.3</item>
+        <item>6.0</item>
+        <item>7.5</item>
+        <item>7.0</item>
+        <item>8.5</item>
+        <item>5.0</item>
+        <item>3.0</item>
+        <item>2.5</item>
+        <item>4.0</item>
+        <item>2.0</item>
+        <item>6.5</item>
+        <item>8.0</item>
+        <item>3.8</item>
+        <item>8.0</item>
+        <item>4.8</item>
+        <item>3.8</item>
+        <item>8.0</item>
+        <item>8.0</item>
+        <item>5.0</item>
+        <item>7.0</item>
+        <item>10.0</item>
+        <item>5.0</item>
+        <item>7.3</item>
+        <item>4.0</item>
+        <item>6.0</item>
+        <item>8.0</item>
+    </string-array>
+</resources>
