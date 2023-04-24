@@ -35,6 +35,7 @@ import com.google.android.material.textfield.TextInputLayout;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class HomeFragment extends Fragment {
 
     private int pos = 0;

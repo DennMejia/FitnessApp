@@ -64,13 +64,13 @@ tv4.setText(String.valueOf(bmiValue + "-" + bmiInterpretation));
 }
 
 //Calculate BMI
-private float calculateBMI (float weight, float height) {
+public float calculateBMI (float weight, float height) {
     return (float) (weight / (height * height));
 }
 
 
 // Interpret what BMI means
-private String interpretBMI(float bmiValue) {
+public String interpretBMI(float bmiValue) {
 
 if (bmiValue < 16) {
     return "Severely underweight";

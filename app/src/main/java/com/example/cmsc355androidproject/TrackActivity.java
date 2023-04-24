@@ -133,7 +133,7 @@ public class TrackActivity extends AppCompatActivity {
         return formatCalories(getCaloriesBurned());
     }
 
-    private double getCaloriesBurned() {
+    public double getCaloriesBurned() {
         double caloriesBurned = (((3.5 * getUserWeight() * getMetValue() )/200)/60) * time;
         return caloriesBurned;
     }
